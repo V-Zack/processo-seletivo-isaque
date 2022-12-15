@@ -1,6 +1,6 @@
 # processo-seletivo-Isaque
 
-#AS REQUISIÇÕES FORAM TESTADAS com sucesso, NO POSTMAN.
+# AS REQUISIÇÕES FORAM TESTADAS COM POSTMAN.
 
 http://localhost:8080/funcionarios/rest/funcionarios/inserir
 
